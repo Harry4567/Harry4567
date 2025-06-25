@@ -22,7 +22,7 @@ Je suis passionné par l'informatique depuis mon plus jeune âge. J'apprend de n
 
 ### [FranWan](https://github.com/Harry4567/FranWan)
 
-FranWan est une application mobile opensource qui vous notifie de votre emploi du temps quotidien (cours, salle). Initialement créée par des humains refaite par IA, elle continue d'évoluer avec des mises à jour régulières. (FranWan n'est pas encore disponible pour vous, lecteurs)
+FranWan est une application mobile opensource qui vous notifie de votre emploi du temps quotidien (cours, salle). Initialement créée par des humains refaite par IA, elle continue d'évoluer avec des mises à jour régulières.
 
 ## My Links
 
