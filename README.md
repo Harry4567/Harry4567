@@ -5,7 +5,7 @@ Je suis un apprenti développeur maitrisant ces languages :
 - CSS -> Niveau Moyen
 - JS -> Aucune connaissances quasiment.
 
-J'ai 22 ans et je suis étudiant.
+J'ai 24 ans et je suis étudiant.
 Je parles :
 - Le Français (langue maternelle)
 - L'Anglais (LV1, Niveau moyen correct)
