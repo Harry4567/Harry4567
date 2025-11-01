@@ -20,9 +20,17 @@ Je suis passionné par l'informatique depuis mon plus jeune âge. J'apprend de n
 
 ## 🗃️ Mes Projets
 
-### [FranWan](https://github.com/Harry4567/FranWan)
+### [FranWan](https://github.com/Harry4567/FranWan) - [Website](https://franwan.rf.gd)
 
 FranWan est une application mobile opensource qui vous notifie de votre emploi du temps quotidien (cours, salle). Initialement créée par des humains refaite par IA, elle continue d'évoluer avec des mises à jour régulières.
+
+### [QRGen](https://github.com/Harry4567/QRgen) - [Website](https://qrgen.gt.tc)
+
+QRGen est un générateur de qrcode open source. Chaque utilisateur peut générer son qr code avec son logo à l'intérieur si il le souhaite
+
+### [QRGen](https://github.com/Harry4567/ipchecker) - [Website](https://ipchecker.fwh.is)
+
+IPChecker est un outil opensource permettant de réupérer son ip mais également de localiser d'autres adresses ips
 
 ## My Links
 
