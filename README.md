@@ -28,7 +28,7 @@ FranWan est une application mobile opensource qui vous notifie de votre emploi d
 
 QRGen est un générateur de qrcode open source. Chaque utilisateur peut générer son qr code avec son logo à l'intérieur si il le souhaite
 
-### [QRGen](https://github.com/Harry4567/ipchecker) - [Website](https://ipchecker.fwh.is)
+### [IPChecker](https://github.com/Harry4567/ipchecker) - [Website](https://ipchecker.fwh.is)
 
 IPChecker est un outil opensource permettant de réupérer son ip mais également de localiser d'autres adresses ips
 
