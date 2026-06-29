@@ -15,7 +15,7 @@ Je parles :
 
 ## Qui suis-je ?
 
-Eh bien, je suis Harry comme dit plus tôt et j'ai 24 ans.
+Eh bien, je suis Harry comme dit plus tôt et j'ai 25 ans.
 Je suis passionné par l'informatique depuis mon plus jeune âge. J'apprend de nouveaux languages de programmation ou encore, je joue :)
 
 ## 🗃️ Mes Projets
